@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-09-28
+window: 2026-09-26 → 2026-09-28
+queries: ["Gujarat news 2026-09-28", "Gujarat government announcement 2026-09-28", "GIFT City news September 2026", "Ahmedabad metro Dholera SIR news September 2026", "Gujarat monsoon IMD rain 2026-09-28", "Surat diamond industry news September 2026", "Gujarat Transport Commissioner Uber Ola Rapido meeting September 2026", "Sonani Jewels lab grown diamond showroom Surat C R Patil", "DeshGujarat September 27 2026", "Gujarat rain flood alert September 27 2026", "Kandla Mundra mega ports notification Ministry Ports Shipping Waterways", "Ahmedabad taxi driver union Uber Ola Rapido strike September 2026 transport commissioner", "Aluminium Bharat 2026 Gandhinagar Helipad Exhibition Centre", "Gandhinagar Municipal Corporation election nomination deadline September 26 2026", "Gujarat cabinet decision Gandhinagar September 26 2026", "Ahmedabad Surat Vadodara Rajkot news September 27 2026", "Gujarat culture festival event September 26 27 2026", "Gujarat business investment MoU September 26 2026", "Ambaji Bhadarvi Poonam fair 2026 date lakhs devotees", "Gandhinagar Municipal Corporation election October 11 2026 model code of conduct notification", "bank strike Gujarat September 28 2026 branches employees"]
+items_considered: 10
+items_published: 5
+items_struck: [GIFT City climbs to 37th in Global Financial Centres Index | reason: out_of_window (dated Sept 17, 2026); Sonani Jewels world's largest lab-grown diamond showroom in Surat | reason: out_of_window (inauguration was Sept 24, 2025, not 2026); Gujarat transport commissioner summons Uber, Ola, Rapido over Ahmedabad driver complaints | reason: uncorroborated (single source, retailintel.in, inaccessible for dateline verification, no second outlet); Ahmedabad Metro Phase 3 / Dholera airport connectivity progress | reason: no_dateline (no verified article-level date within window); Surat diamond industry gloom ahead of Diwali on US tariffs | reason: no_dateline (no verified article-level date within window); Gondal/Vav-Tharad road accidents with 3 and 2 deaths | reason: uncorroborated (casualty counts from a single outlet, TV9 Gujarati, no second source or official confirmation)]
+sections_empty: []
+corpus_staleness_warning: false
+email_delivery: sent
