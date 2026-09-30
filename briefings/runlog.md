@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-09-30
+window: 2026-09-28 → 2026-09-30
+queries: [Gujarat news 30 September 2026; Gujarat government announcement 30 September 2026; Ahmedabad metro GIFT City Surat diamond Dholera September 2026; Gujarat monsoon IMD Ahmedabad 29 September 2026; Gujarat Ahmedabad Surat Rajkot Vadodara news 29 September 2026]
+items_considered: 8
+items_published: 0
+items_struck: [Cyclone Montha / cabinet expansion / Valsad-Junagadh rainfall figures | reason: no_dateline; Bharuch factory fire, Jan Vishwas Bill | reason: no_dateline; Vaghela expected to join Congress (Sandesh 29 Sep listing) | reason: uncorroborated; IMD 7-day rain forecast (DeshGujarat, 26 Sep) | reason: out_of_window; Gold/silver prices, temperature outlook (Sandesh 29 Sep snippet) | reason: uncorroborated; Ahmedabad Metro Phase II operational stats | reason: no_dateline; Surat metro/Dholera generic | reason: no_dateline]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: false
+email_delivery: sent
