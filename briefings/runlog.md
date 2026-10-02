@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-02
+window: 2026-09-30 → 2026-10-02
+queries: ["Gujarat news 2 October 2026", "Gujarat government announcement 1 October 2026", "GIFT City Ahmedabad news October 2026", "Surat diamond industry Dholera Ahmedabad metro news 30 September 2026", "Gujarat monsoon IMD rainfall October 2026", "deshgujarat Gujarat Bhupendra Patel 1 October 2026", "Gandhinagar Municipal Corporation election campaign October 2026", "Ahmedabad news September 30 2026", "Gujarat Surat Rajkot Vadodara news October 1 2026"]
+items_considered: 9
+items_published: 0
+items_struck: [BJP questions Congress manifesto promises ahead of Gandhinagar civic polls (election 11 Oct 2026) | reason: no_dateline (article fetch blocked; only search snippet); Vadodara VMC to add 30 e-buses under PM e-Bus Sewa, launch Oct 7 | reason: no_dateline; Surat–Vadodara rail yard remodelling/Utran EI work affecting trains | reason: no_dateline; IOC Vadodara refinery capacity underutilised | reason: no_dateline; Statewide special voter enrolment drive | reason: no_dateline; Congress Gandhi Jayanti peace march Ahmedabad / EPS-95 retirees protest | reason: no_dateline; Mumbai–Ahmedabad bullet train steel bridge launch at Bhiwandi 28 Sep | reason: out_of_scope (Maharashtra) and no_dateline; IMD forecast issued 26 Sep for Gujarat rain | reason: out_of_window; Dussehra/Sardar Patel Jayanti holiday dates | reason: out_of_scope (not news)]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture, Top Headlines]
+corpus_staleness_warning: false
+email_delivery: sent
