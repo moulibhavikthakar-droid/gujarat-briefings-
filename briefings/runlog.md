@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-03
+window: 2026-10-01 → 2026-10-03
+queries: [Gujarat news 3 October 2026; Gujarat government announcement 2 October 2026; Ahmedabad GIFT City Surat Dholera news October 2026; Gujarat monsoon IMD Ahmedabad forecast 2 October 2026; Gujarat Bhupendra Patel October 2026; Mumbai-Ahmedabad bullet train Gujarat update October 2026]
+items_considered: 6
+items_published: 1
+items_struck: [Gujarat UCC presidential assent | reason: no_dateline (Outlook page blocked, date unverifiable)] [IMD yellow alert/rain forecast Oct 2 (FPJ) | reason: no_dateline (page blocked)] [Monsoon withdrawal (DeshGujarat 2026-09-24) | reason: out_of_window] [Ahmedabad-Dholera Expressway operational / Kaynes plant / Dumas sea front | reason: no_dateline] [Metro Phase 2B Rs 1,071 crore | reason: uncorroborated] [Bullet train timelines | reason: no_dateline]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (fetches of news sites blocked by egress proxy; search corpus thin for window)
+email_delivery: sent
