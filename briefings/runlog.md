@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-04
+window: 2026-10-02 → 2026-10-04
+queries: [Gujarat news 2026-10-04; Gujarat government announcement 3 October 2026; Ahmedabad Surat Vadodara Rajkot news 3 October 2026; GIFT City Dholera Ahmedabad metro October 2026; Gujarat monsoon IMD Surat diamond industry October 2026]
+items_considered: 6
+items_published: 0 (1 deep dive)
+items_struck: [Gujarat 2026 public holiday calendar | reason: no_dateline (undated snippet, appears to be a prior-year release)] [IMD Gujarat rain forecast 26 Sep 2026 | reason: out_of_window] [IMD yellow alert 22 Sep 2026 | reason: out_of_window] [Cabinet expansion / Cyclone Montha snippets | reason: no_dateline] [Surat floods 24 Jul 2026 | reason: out_of_window]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search corpus returned nothing dated after ~26 Sep 2026; deshgujarat.com fetch blocked by egress proxy)
+email_delivery: sent
