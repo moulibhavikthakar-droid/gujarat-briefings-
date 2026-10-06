@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-06
+window: 2026-10-04 → 2026-10-06
+queries: ["Gujarat news 6 October 2026", "Gujarat government announcement October 2026 Bhupendra Patel", "GIFT City Ahmedabad metro Dholera Surat diamond October 2026", "Gujarat monsoon IMD Ahmedabad rainfall 5 October 2026", "deshgujarat.com 2026/10 Gujarat"]
+items_considered: 6
+items_published: 0
+items_struck: [Navratri begins 2026-10-05 | reason: no_dateline (holiday-calendar sites, not news articles); Oct 2025 cabinet expansion / Rs 5,576 cr corridors / Rs 947 cr farmer relief | reason: out_of_window (2025); IMD 7-day rain forecast (DeshGujarat) | reason: out_of_window (2026-09-26); Surat Metro viaduct / Dholera Expressway | reason: no_dateline; Ahmedabad Metro Phase II functional since Jan 2026 | reason: uncorroborated; DeshGujarat homepage | reason: out_of_scope (fetch blocked by egress proxy)]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
