@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-09
+window: 2026-10-07 → 2026-10-09
+queries: ["Gujarat news 9 October 2026", "Gujarat government announcement 8 October 2026", "GIFT City Ahmedabad metro Surat diamond Dholera October 2026", "Gujarat IMD rainfall forecast October 2026", "deshgujarat.com 2026/10/08", "Ahmedabad Surat Rajkot Vadodara news October 8 2026", "Gujarat wildlife sanctuaries national parks reopen October 9 2026 Gir", "Gujarat FDCA Karjan Surat medicines seized Rs 42 lakh", "Navratri 2026 Gujarat Ahmedabad Garba Bhupendra Patel October 7"]
+items_considered: 9
+items_published: 0
+items_struck: [Wildlife sanctuaries/national parks reopening Oct 9 | reason: uncorroborated (follow-up search contradicted it; no article dateline); FDCA seizure Karjan/Surat Rs 42.6 lakh | reason: no_dateline (not found in follow-up search); HD Fire Project IPO opens Oct 13 | reason: no_dateline / uncorroborated; RBI repo rate hike Oct 7 | reason: out_of_scope (national); Vadodara VMC Garba Oct 7 | reason: no_dateline (search summary only); Ahmedabad dengue 756 cases September | reason: no_dateline / uncorroborated; Ahmedabad 2030 Commonwealth Games frontrunner | reason: no_dateline; Rajkot airport winter schedule Oct 25 | reason: no_dateline; Navratri Ghatasthapana Oct 11 | reason: out_of_window / not news; IMD forecast issued Sep 26 | reason: out_of_window]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
