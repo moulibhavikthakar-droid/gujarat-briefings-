@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-10
+window: 2026-10-08 → 2026-10-10
+queries: ["Gujarat news 10 October 2026", "Gujarat government announcement 10 October 2026", "Ahmedabad Surat GIFT City Dholera news 9 October 2026", "Gujarat IMD weather rain forecast October 2026", "deshgujarat.com 2026/10/09", "Metro Train Services PDEU GIFT City Stretch Disruption Train Operator Controller Suspended", "Gujarat MSME assistance scheme Viksit Gujarat Industrial Policy-2026 Gandhinagar"]
+items_considered: 6
+items_published: 1
+items_struck: [PDEU–GIFT City metro disruption, operator/controller suspended | reason: uncorroborated (headline snippet only, no URL or article retrieved; follow-up search found nothing); MSME assistance scheme under Viksit Gujarat Industrial Policy-2026 | reason: no_dateline (dateline appeared only in search summary, no article URL retrieved); Wildlife sanctuaries/national parks reopen Oct 9 | reason: out_of_window (article dated 2026-10-07); IMD 7-day forecast | reason: out_of_window (issued 2026-09-26); Ahmedabad Metro Phase III approval | reason: no_dateline; RBI repo rate 5.50% (Oct 7) | reason: out_of_scope / out_of_window]
+sections_empty: [Politics & Governance, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: false
+note: deshgujarat.com was unreachable via WebFetch (ENOTFOUND); bio-manufacturing item rests on search-result summary and URL date 2026/10/09, article body not read
+email_delivery: sent
