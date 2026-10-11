@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-11
+window: 2026-10-09 → 2026-10-11
+queries: [Gujarat news 11 October 2026; Gujarat government announcement 10 October 2026; Ahmedabad Surat Rajkot Vadodara news October 2026; GIFT City Dholera Ahmedabad metro October 2026; Gujarat IMD monsoon withdrawal rainfall October 2026; deshgujarat Gujarat October 2026]
+items_considered: 8
+items_published: 0
+items_struck: [Monsoon withdrawal from Gujarat | reason: out_of_window (Oct 3); Wildlife sanctuaries reopen Oct 9 | reason: out_of_window (article Oct 7); Special voter registration drive | reason: out_of_window (article Oct 1); IAS compulsory retirement | reason: out_of_window (Oct 1); Ayodhya Yatri Niwas Rs 80.25 cr | reason: out_of_window (Oct 8) and uncorroborated; MSME scheme under Industrial Policy 2026 | reason: no_dateline (article fetch failed, only search-snippet URL date); GIFT City metro glitch suspensions | reason: no_dateline; HC CJ elevated to SC | reason: out_of_window (Oct 5)]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
