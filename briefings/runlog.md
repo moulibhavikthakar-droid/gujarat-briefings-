@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-12
+window: 2026-10-10 → 2026-10-12
+queries: [Gujarat news 12 October 2026; Gujarat government announcement 11 October 2026; Ahmedabad Surat Rajkot Vadodara news October 2026; GIFT City Dholera Ahmedabad metro October 2026; Gujarat IMD weather rain forecast 12 October 2026; DeshGujarat news Gandhinagar Bhupendra Patel; Daman-Ganga Lift Irrigation Scheme Valsad; Viksit Gujarat Industrial Policy-2026 MSME assistance scheme]
+items_considered: 2
+items_published: 0
+items_struck: [Daman-Ganga lift irrigation scheme approval (Valsad) | reason: uncorroborated (article not retrievable, ₹ figure single-source, date only from URL); MSME assistance scheme under Industrial Policy 2026 | reason: out_of_window (dated 2026-10-09)]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
