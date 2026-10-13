@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-13
+window: 2026-10-11 → 2026-10-13
+queries: ["Gujarat news 13 October 2026", "Gujarat government announcement 12 October 2026", "Ahmedabad Surat Rajkot Vadodara news October 2026 GIFT City Dholera metro", "Gujarat IMD rain forecast October 2026", "deshgujarat.com 2026/10/12", "Moti Koral Bhalod bridge Narmada work begins", "Gujarat Final Eligibility Certificates 25 industrial units", "AMC sealed three commercial units littering plastic ban"]
+items_considered: 6
+items_published: 0
+items_struck: [Moti Koral-Bhalod Narmada bridge work begins (₹225 cr) | reason: no_dateline (homepage snippet only; no article retrieved, no second source); AMC seals 3 units, fines 57 establishments ₹51,300 | reason: no_dateline (homepage snippet only); 25 industrial units get Final Eligibility Certificates, ₹3,903.30 cr | reason: no_dateline / uncorroborated (homepage snippet only); Kutch Kala Dungar rare snakes | reason: no_dateline (sighting in Sept 2026, homepage snippet only); Ahmedabad Metro Phase III approval (Gujarat Samachar ePaper) | reason: no_dateline; Gujarat MSME assistance scheme under Industrial Policy 2026 (DeshGujarat) | reason: out_of_window (2026-10-09); IMD 7-day forecast | reason: out_of_window (2026-09-26)]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index returned no dated in-window articles; deshgujarat.com fetch failed DNS)
+email_delivery: sent
