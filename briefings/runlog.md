@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-14
+window: 2026-10-12 → 2026-10-14
+queries: ["Gujarat news 14 October 2026", "Gujarat government announcement 13 October 2026", "GIFT City Ahmedabad metro Surat diamond Dholera October 2026", "DeshGujarat Gujarat 13 October 2026", "Ahmedabad Times of India 13 October 2026", "Gujarat Bhupendra Patel October 2026 Gandhinagar", "Gandhinagar Municipal Corporation election result BJP seats Okha Thara"]
+items_considered: 6
+items_published: 1
+items_struck: [BlackRock COO meets Gujarat CM re GIFT City / Vibrant Summit 2027 | reason: no_dateline; Okha and Thara municipality BJP wins (seat counts) | reason: uncorroborated; CM Patel press conference on Congress/EC allegations | reason: out_of_window (~16 days old); Ahmedabad Metro Phase III Gujarat Samachar page | reason: no_dateline; Southwest monsoon withdrawal from Gujarat Oct 3 | reason: out_of_window; Gandhinagar BJP vote share ~57% | reason: uncorroborated (single source)]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: false
+email_delivery: sent
