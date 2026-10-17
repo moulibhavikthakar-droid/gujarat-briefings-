@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-17
+window: 2026-10-15 → 2026-10-17
+queries: ["Gujarat news 17 October 2026", "Gujarat government announcement 16 October 2026", "Ahmedabad metro OR GIFT City OR Dholera OR Surat diamond October 2026", "Gujarat IMD weather forecast 16 October 2026", "Gujarat four brownfield medical colleges Kheda Mahisagar Botad Gir Somnath Pansheriya", "Shramik Annapurna 101 new centres Bhupendra Patel 394 centres"]
+items_considered: 6
+items_published: 0
+items_struck: [Four brownfield medical colleges approved (Kheda, Mahisagar, Botad, Gir Somnath) | reason: no_dateline (article fetch failed; snippet only; follow-up search could not corroborate) / uncorroborated; 101 new Shramik Annapurna centres, 394 total | reason: no_dateline / uncorroborated (fetch failed; follow-up search found nothing; DeshGujarat/IANS dates conflicted); Sarkhej gas leak scare | reason: no_dateline (video snippet only, article not retrieved); Sandesh 16 Oct roundup (power supply, ration card, Bhavnagar hooch case) | reason: no_dateline (snippet only, URL slug said 15 October); 268 talukas industrial classification | reason: out_of_window (Business Standard URL suggests 2026-10-11); Chhatral GIDC boiler blast / Gandhinagar civic results | reason: no_dateline (stale page)]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
+note: WebFetch could not resolve external hosts this run (ENOTFOUND), so no article could be opened to verify datelines; Mega-Project Deep Dive relies on a Wikipedia snippet.
