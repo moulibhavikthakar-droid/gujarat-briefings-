@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-19
+window: 2026-10-17 → 2026-10-19
+queries: [Gujarat news 2026-10-19; Gujarat government announcement 19 October 2026; Ahmedabad Surat Rajkot Vadodara news 18 October 2026; GIFT City Dholera Ahmedabad metro October 2026; DeshGujarat Gujarat October 18 2026; Gujarat IMD weather forecast 19 October 2026 Surat diamond industry]
+items_considered: 6
+items_published: 0
+items_struck: [IMD Gujarat rain forecast (DeshGujarat 2026-10-16) | reason: out_of_window; Ahmedabad Metro Phase III approval (undated Gujarat Samachar page) | reason: no_dateline; Centre Rs 500 crore SDRF, Umarwada customs facility, Data Center Policy 2026-29 (DeshGujarat sidebar) | reason: no_dateline; Gujarat budget session Feb 2026 / cabinet Oct 2025 | reason: out_of_window]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
