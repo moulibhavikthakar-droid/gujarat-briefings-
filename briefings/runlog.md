@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-20
+window: 2026-10-18 → 2026-10-20
+queries: ["Gujarat news 20 October 2026", "Gujarat government announcement 19 October 2026", "Ahmedabad metro GIFT City Dholera October 2026", "Surat diamond industry Gujarat October 2026", "Gujarat IMD weather rain 19 October 2026", "deshgujarat Gujarat Bhupendra Patel October 2026", "Mumbai-Ahmedabad bullet train Gujarat progress 2026 NHSRCL"]
+items_considered: 6
+items_published: 0
+items_struck: [Ahmedabad Metro Phase III approval (undated Gujarat Samachar epaper page) | reason: no_dateline / Surat diamond sector 7 Oct 2026 e-gov feature, lab-grown figures | reason: out_of_window / Surat Diwali diamond shutdown report | reason: no_dateline / IMD orange alert Gujarat | reason: out_of_window (Sept 14, 2026) / Metro Phase-2B Rs 1,071 crore | reason: no_dateline / Dholera airport Dec 2026 completion | reason: uncorroborated / HSR corridor figures (371 km viaduct etc.) | reason: uncorroborated (single secondary source, exact dateline unverified)]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
