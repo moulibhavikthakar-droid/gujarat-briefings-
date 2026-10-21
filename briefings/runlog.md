@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-21
+window: 2026-10-19 → 2026-10-21
+queries: [Gujarat news 21 October 2026; Gujarat government announcement 20 October 2026; GIFT City Ahmedabad metro Surat diamond Dholera October 2026; DeshGujarat Gujarat 20 October 2026; Ahmedabad Surat Rajkot Vadodara news October 20 2026 Times of India; Gujarat Bhupendra Patel cabinet decision October 2026]
+items_considered: 5
+items_published: 0
+items_struck: [DRI gold bust at Ahmedabad/Surat airports (Tribune) | reason: no_dateline (page fetch failed, date unverifiable)] [Wildlife sanctuaries reopen Oct 9 (DeshGujarat) | reason: out_of_window] [Harsh Sanghavi citizenship certificates Rajkot / 101 meal centres (DeshGujarat, Oct 15) | reason: out_of_window] [Ahmedabad Metro Phase III approval | reason: no_dateline] [Rs 500 crore SDRF allocation / Umarwada customs facility | reason: no_dateline]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
