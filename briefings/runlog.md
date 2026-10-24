@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-24
+window: 2026-10-22 → 2026-10-24
+queries: [Gujarat news 24 October 2026; Gujarat government announcement 23 October 2026; Ahmedabad Surat GIFT City Dholera news October 2026; Gujarat IMD weather forecast 24 October 2026]
+items_considered: 8
+items_published: 0
+items_struck: [Ahmedabad CTM toll plaza drug seizure | reason: no_dateline (only index-page snippet, article not retrieved); Ahmedabad SMC liquor chase | reason: no_dateline; Amreli lion well rescue | reason: no_dateline (article says "Thursday" only); Chhatral GIDC boiler blast | reason: no_dateline; Bhavnagar SUV-trailer crash, 7 killed | reason: no_dateline; Gujarat seeks 5,000 MW extra power | reason: no_dateline/uncorroborated (no article URL retrieved); 12 IAS officers abroad for Vibrant Gujarat 2027 outreach | reason: no_dateline; RRU Police Commemoration Day | reason: no_dateline]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (primary sites unreachable; search index returned nothing dated 23-24 Oct)
+email_delivery: sent
