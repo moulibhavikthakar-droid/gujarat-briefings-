@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-26
+window: 2026-10-24 → 2026-10-26
+queries: [Gujarat news 26 October 2026; Gujarat government announcement 26 October 2026; Ahmedabad Surat Rajkot Vadodara news 25 October 2026; GIFT City Dholera Ahmedabad metro October 2026; DeshGujarat Gujarat October 2026; Surat diamond industry Gujarat IMD forecast 24 October 2026; Statue of Unity rain forest Ekta Nagar; Ahmedabad water supply reduced five zones]
+items_considered: 9
+items_published: 0 (1 mega-project deep dive, dated Feb 2026)
+items_struck: [Statue of Unity rain forest inauguration Oct 31 | reason: no_dateline (deshgujarat.com unreachable, snippet only; follow-up search matched only a 2025 event) / uncorroborated; Ahmedabad water cut five zones Oct 25 | reason: no_dateline / uncorroborated; Gujarat delegation South Korea textile roundtable | reason: out_of_window (Oct 23); electricity demand 29,822 MW Oct 16 | reason: out_of_window; Vibrant Gujarat 22-country outreach | reason: out_of_window (Oct 17); wildlife sanctuaries reopen Oct 9 | reason: out_of_window; voter registration drive | reason: out_of_window; AMTS bus routes | reason: no_dateline; Surat diamond exports -7% | reason: out_of_window (Oct 15) / uncorroborated; IMD bulletin | reason: out_of_window (Oct 20)]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
