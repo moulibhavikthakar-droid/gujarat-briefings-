@@ -16,4 +16,4 @@ items_published: 0 (1 out-of-window deep dive)
 items_struck: [Sandesh 27 Oct roundup items (Surat firecracker NOC, Chaitar Vasava interim bail, Diwali vacation 5-25 Nov) | reason: no_dateline (page unfetchable, sandesh.com blocked; snippet only; title inconsistent) ; Ahmedabad Metro Phase III approval | reason: no_dateline ; Sandesh heatwave alert | reason: no_dateline ; Gujarat Samachar Ahmedabad/Surat/Rajkot crime items (~21 Oct) | reason: out_of_window ; Surat diamond/tariff stories | reason: out_of_window ; Viksit Gujarat Industrial Policy 2026 (15 Jun) | reason: out_of_window ; Dholera rail/airport figures | reason: uncorroborated]
 sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
 corpus_staleness_warning: true (deshgujarat.com and sandesh.com unreachable; search index returned no dated in-window articles)
-email_delivery: pending
+email_delivery: sent
