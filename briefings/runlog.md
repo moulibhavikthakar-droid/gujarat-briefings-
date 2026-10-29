@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-29
+window: 2026-10-27 → 2026-10-29
+queries: [Gujarat news 29 October 2026; Gujarat government announcement 28 October 2026; Ahmedabad Surat Rajkot Vadodara news October 28 2026; GIFT City Dholera Ahmedabad metro October 2026; Gujarat IMD rain forecast 28 October 2026 Ahmedabad]
+items_considered: 0 in-window (retrieved results all older or undated)
+items_published: 0
+items_struck: [Ahmedabad Metro Phase III approval (Gujarat Samachar epaper snippet) | reason: no_dateline; Viksit Gujarat Industrial Policy 2026 | reason: out_of_window (2026-06-15); IMD alerts Oct 2025 | reason: out_of_window; GIFT City-Shahpur tender ₹290 crore | reason: no_dateline]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
