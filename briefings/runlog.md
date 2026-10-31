@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-10-31
+window: 2026-10-29 → 2026-10-31
+queries: [Gujarat news 31 October 2026; Gujarat government announcement 30 October 2026; Ahmedabad metro GIFT City Dholera October 2026; Surat diamond industry Gujarat news 30 October 2026; deshgujarat.com 2026/10/30; Gujarat IMD Ahmedabad weather forecast 31 October 2026]
+items_considered: 0
+items_published: 0
+items_struck: [none retrieved with an in-window dateline | reason: out_of_window / no_dateline]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
