@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-01
+window: 2026-10-30 → 2026-11-01
+queries: [Gujarat news 1 November 2026; Gujarat government announcement 31 October 2026; Ahmedabad metro GIFT City Dholera Surat diamond news 31 October 2026; Gujarat IMD weather forecast 1 November 2026; deshgujarat.com 2026/10/31 Gujarat; WebFetch deshgujarat.com (DNS blocked)]
+items_considered: 6
+items_published: 0
+items_struck: [Sardar Patel Jayanti holiday listing | reason: no_dateline; Surat Metro trial run (Apr 2026) | reason: out_of_window; Navratri live post (15 Oct 2026) | reason: out_of_window; IMD Nov 2025 rain alerts | reason: out_of_window; Rs 1,067 crore metro figure | reason: uncorroborated]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
