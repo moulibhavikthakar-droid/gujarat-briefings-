@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-02
+window: 2026-10-31 → 2026-11-02
+queries: [Gujarat news 2 November 2026; Gujarat government announcement 1 November 2026; Ahmedabad news 31 October 2026; GIFT City OR Dholera OR Surat diamond November 2026; Gujarat IMD weather Ahmedabad Surat 1 November 2026; deshgujarat 1 November 2026 (domain-filter error)]
+items_considered: 6
+items_published: 0
+items_struck: [Ration distribution from Nov 1 (DeshGujarat/IANS) | reason: out_of_window (dated 2025-10-31); Traffic restrictions Ahmedabad (DeshGujarat) | reason: out_of_window (2025); Statue of Unity protest / deadline extended to 31 Oct (Quint) | reason: no_dateline; Minimum wages revision notification 5 Oct 2026 | reason: out_of_window; Kiran Gems leaves Surat Diamond Bourse (National Herald) | reason: no_dateline; GIFT City IFSCA milestones (Business Standard, 2025-11-01) | reason: out_of_window; Gujarat weather items | reason: out_of_window (latest 2026-07-20); Deep-dive source DeshGujarat Mar-2026 infra review | reason: unfetchable (deshgujarat.com not in allowed network domains), content unverified]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture, Mega-Project Deep Dive omitted (no retrievable content)]
+corpus_staleness_warning: true
+email_delivery: sent
