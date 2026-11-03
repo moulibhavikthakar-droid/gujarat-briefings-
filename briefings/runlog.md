@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-03
+window: 2026-11-01 → 2026-11-03
+queries: ["Gujarat news 3 November 2026", "Gujarat government announcement 2 November 2026", "Ahmedabad Surat GIFT City Dholera news November 2026", "DeshGujarat 1 November 2026", "Gujarat Ahmedabad Surat Rajkot Vadodara news November 2, 2026", "Ahmedabad metro Mumbai-Ahmedabad bullet train Khavda Gujarat update November 2026"]
+items_considered: 12
+items_published: 0
+items_struck: [61 foreigners detained by Ahmedabad Crime Branch | reason: no_dateline (TV9 homepage snippet only; article pages unreachable); Nikol SUV footpath deaths / Thaltej office fire | reason: no_dateline (Gujarat Samachar category page snippet); Kankaria boating resumes Nov 3 / platform tickets suspended at six stations | reason: no_dateline (DeshGujarat homepage snippet); Vadodara Gas CNG/PNG price rise | reason: no_dateline; Honda ₹2,420 crore expansion | reason: uncorroborated (and no_dateline); Surat Heerabagh land dispute assault | reason: no_dateline; Rajkot hotel party liquor | reason: no_dateline; Sandesh 02 Nov news roundup | reason: no_dateline (URL slug only; fetch failed, sandesh.com not resolvable); Bullet train Surat–Bilimora Aug 2027 / 80% progress | reason: no_dateline; Ahmedabad Metro Phase 2(A) cabinet approval | reason: no_dateline; Viksit Gujarat Industrial Policy 2026 | reason: no_dateline; minimum wages notification 5 Oct 2026 | reason: out_of_window]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture, Mega-Project Deep Dive]
+corpus_staleness_warning: false
+email_delivery: sent
