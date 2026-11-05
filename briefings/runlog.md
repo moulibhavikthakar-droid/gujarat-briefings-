@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-05
+window: 2026-11-03 → 2026-11-05
+queries: [Gujarat news 5 November 2026; Gujarat government announcement November 2026 Gandhinagar; GIFT City news November 2026; Ahmedabad metro OR Surat diamond OR Dholera November 4 2026; deshgujarat Gujarat November 4, 2026; Ahmedabad Surat Rajkot Vadodara news 4 November 2026 Times of India]
+items_considered: 8
+items_published: 0 (1 background deep-dive, dated May 2026)
+items_struck: [Delhi-Mumbai Expressway Limkheda-Godhra stretch (Business Today) | reason: uncorroborated (single source; article fetch blocked, dateline seen only via search summary/URL)] [Gujarat jails bomb threat email (Gujarat Samachar) | reason: no_dateline (fetch blocked)] [Razorpay GIFT City licence | reason: out_of_window (Nov 2)] [GIFT City banking assets / JLL treasury / BFSI summit | reason: out_of_window (Oct 27-29)] [Bhavnagar spurious liquor arrests, Dhuvaran nuclear, water storage, Diwali vacation Nov 5 (DeshGujarat) | reason: no_dateline] [Industrial Policy 2026, STI Policy | reason: out_of_window] [Surat metro / diamond bourse / Dholera airport items | reason: out_of_window or no_dateline]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
