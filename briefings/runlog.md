@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-06
+window: 2026-11-04 → 2026-11-06
+queries: ["Gujarat news 6 November 2026", "Gujarat government announcement 5 November 2026", "GIFT City Ahmedabad metro Surat diamond Dholera November 2026", "DeshGujarat Gujarat November 2026", "WebFetch deshgujarat.com (failed: host not in allowed network domains)"]
+items_considered: 6
+items_published: 0
+items_struck: [Viksit Gujarat Industrial Policy 2026 launch | reason: out_of_window (2026-06-15); Navratri 2026 live coverage | reason: out_of_window (2026-10-15); Gujarat budget session/Karmayogi scheme | reason: out_of_window (2026-02-16); Surat Dream City master plan | reason: out_of_window (2025-09-24); Dholera airport December 2026 target | reason: uncorroborated (low-quality PDF); generic "Gujarat News Today" blog pages | reason: no_dateline]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
