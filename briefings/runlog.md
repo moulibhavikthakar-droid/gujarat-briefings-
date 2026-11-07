@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-07
+window: 2026-11-05 → 2026-11-07
+queries: [Gujarat news 2026-11-07; Gujarat government announcement 7 November 2026; Ahmedabad Surat Rajkot Vadodara news November 6 2026; GIFT City OR Dholera OR Ahmedabad metro OR Surat diamond November 2026; deshgujarat.com 2026/11/06; Gujarat IMD weather forecast November 2026 Ahmedabad; Civil Works Complete on 97-km Surat-Vapi Section (verification)]
+items_considered: 6
+items_published: 0 (1 dated deep-dive status, explicitly not new)
+items_struck: [IMD light-rain/dry-spell forecast (DeshGujarat 2026-11-02) | reason: out_of_window; Diwali parole to 143 prisoners (2026-10-31) | reason: out_of_window; ED searches incl. Surat/Bhavnagar (2026-10-28) | reason: out_of_window; Kiran Gems leaves Surat Diamond Bourse | reason: no_dateline; Surat diamond exports +11.32% | reason: no_dateline/uncorroborated]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
