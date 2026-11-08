@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-08
+window: 2026-11-06 → 2026-11-08
+queries: [Gujarat news 8 November 2026; Gujarat government announcement 7 November 2026; Ahmedabad Surat Rajkot Vadodara news November 2026 DeshGujarat; GIFT City Dholera Ahmedabad metro Surat diamond November 2026; Gujarat IMD weather forecast 8 November 2026 Ahmedabad]
+items_considered: 6
+items_published: 0
+items_struck: [Chimanbhai Patel Bridge closure Nov 3-4 | reason: out_of_window; Kankaria boating resumes Nov 3 | reason: out_of_window; AIIMS Rajkot oncology facility Nov 3 | reason: out_of_window; Gujarati seafarer killed off Oman Nov 2 | reason: out_of_window; Metro foundation stone Oct 30 | reason: out_of_window (used only as dated deep-dive); IMD forecasts | reason: no_dateline]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: false
+email_delivery: sent
+note: deshgujarat.com not reachable by fetch (network allowlist); only search snippets available.
