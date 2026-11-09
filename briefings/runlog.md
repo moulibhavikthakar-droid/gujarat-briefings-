@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-09
+window: 2026-11-07 → 2026-11-09
+queries: ["Gujarat news 2026-11-09", "Gujarat government announcement 8 November 2026", "GIFT City Ahmedabad metro Surat diamond Dholera November 2026", "DeshGujarat Gujarat 9 November 2026"]
+items_considered: 4
+items_published: 0
+items_struck: [Gujarat GST revenue up 17% YoY in September 2026 | reason: no_dateline / uncorroborated; NDRF flood rescue operations (26 ops, 245 rescued) | reason: no_dateline; Ahmedabad Airport rainfall advisory | reason: no_dateline; Ahmedabad Metro Phase 2 foundation stone (2026-10-30) | reason: out_of_window (used only as Mega-Project reference); GIFT City metro cost figure | reason: uncorroborated; Guru Ravidas Rs 231 crore commitment (2026-09-16) | reason: out_of_window]
+sections_empty: [Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index returned nothing dated after 2026-10-30; deshgujarat.com not fetchable from session network)
+email_delivery: sent
