@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-10
+window: 2026-11-08 → 2026-11-10
+queries: [Gujarat news 10 November 2026; Gujarat government announcement 9 November 2026; Ahmedabad Surat Rajkot Vadodara news November 2026; GIFT City OR Dholera OR Ahmedabad metro November 2026; Gujarat Ahmedabad Surat 9 November 2026; Surat diamond industry OR Gujarat IMD weather 8 November 2026]
+items_considered: 8
+items_published: 0 (1 deep-dive, out-of-window, labelled)
+items_struck: [Surat/Vadodara bank bomb-threat hoax emails | reason: no_dateline (article fetch blocked, date unverifiable)] [Gujarat 366 Diwali fire incidents | reason: no_dateline] [Surat/Ahmedabad Diwali AQI | reason: no_dateline] [CM Fellowship expansion | reason: out_of_window] [DA hike 3% | reason: out_of_window (4 Nov)] [Chimanbhai Patel Bridge closure, AIIMS Rajkot, Kankaria boating | reason: out_of_window (3-4 Nov)] [Dholera / Surat diamond / IMD | reason: no_dateline, nothing in window]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+email_delivery: sent
+note: fetch of deshgujarat.com, deccanchronicle.com, gujaratsamachar.com, theprint.in failed (domains not allowed in session network)
