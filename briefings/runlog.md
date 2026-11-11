@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-11
+window: 2026-11-09 → 2026-11-11
+queries: ["Gujarat news 2026-11-11", "Gujarat government announcement November 10 2026", "Ahmedabad news November 11 2026", "GIFT City OR Surat diamond OR Dholera news November 2026", "Amit Shah Ahmedabad projects drug-free Gujarat 2028 November 9 2026", "Gujarat IMD weather forecast November 10 2026 cold winter", "Amit Shah Gujarat 1033 helpline drug December 1 Ahmedabad Municipal Corporation projects", "Bhupendra Patel Vikram Samvat 2083 New Year Gandhinagar", "deshgujarat 2026/11/10 OR 2026/11/09 Gujarat", "GIFT City IFSC news November 9 10 2026", "Surat diamond industry Diwali vacation November 2026"]
+items_considered: 13
+items_published: 5
+items_struck: [Tropical Forest at Sabarmati Riverfront ₹62.31 crore / 200 MLD Jaspur WTP / Ahmedabad Tourism logo | reason: uncorroborated (single source); Shah dedicates Ramapir Tekra slum-rehab houses | reason: no_dateline (pre-event plan dated Nov 5); CM Snehamilan / police officers' mess greetings | reason: uncorroborated (pre-event schedule only); IFSCA GPU operating-lease notification | reason: no_dateline (notification date unverified); GIFT City banking assets $193bn, Razorpay licence, NSEIX 23.5-hour trading | reason: no_dateline; Surat diamond units shorter Diwali vacation / 10% bonus | reason: out_of_window (Nov 3 and earlier); IMD dry-weather forecast | reason: out_of_window (Nov 2); Chimanbhai Patel Bridge closures, ATS drug arrest | reason: out_of_window (Nov 3); Ahmedabad metro GIFT City fault, Bangladeshi detentions | reason: no_dateline]
+sections_empty: []
+corpus_staleness_warning: false
+notes: WebFetch blocked for all news hosts by network policy; datelines verified via search-result metadata and URL date stamps only. No items dated 2026-11-11 found.
+email_delivery: sent
