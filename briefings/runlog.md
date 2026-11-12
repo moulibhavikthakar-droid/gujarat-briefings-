@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-12
+window: 2026-11-10 → 2026-11-12
+queries: ["Gujarat news November 12 2026", "Gujarat government announcement November 11 2026", "Ahmedabad news 11 November 2026", "GIFT City OR Surat diamond OR Dholera November 2026", "Gujarat 10 November 2026 news Surat Vadodara Rajkot", "Bhupendra Patel Gandhinagar November 2026", "Ahmedabad Metro Phase 2 Gandhinagar 2026 status"]
+items_considered: 10
+items_published: 1 (+ Mega-Project Deep Dive: Ahmedabad Metro Phase II, background dated 2026-06-10)
+items_struck: [Amit Shah sets 31 Dec 2028 drug-free Gujarat deadline | reason: out_of_window (IANS, 2026-11-09); CM New Year Snehamilan schedule (Panchdev Mandir, Cabinet Residence, Adalaj Trimandir, Ahmedabad) | reason: no_dateline / preview only, completion not verified (Loktej, Devdiscourse, Asianet unfetchable); School mental health measures Classes 9-12 | reason: out_of_window (2026-11-01); 143 prisoners Diwali parole | reason: out_of_window (2026-11-01); Surat Athwa minors stabbing / SMC ACB bribe arrest / Vadodara Gas CNG-PNG hike / WR platform ticket suspension | reason: out_of_window (DeshGujarat ~2026-11-02); New Cabinet ministers / ACB sarpanch-talati sting | reason: out_of_window (2026-10-29); India TV Kutch BSF / Chhatral GIDC boiler / Bhavnagar crash | reason: no_dateline (page ~198 days old); GIFT City half built-up area allotted | reason: out_of_window (Nov 2025); Rajkot Angadiya ₹19 lakh robbery | reason: no_dateline; Metro Phase 2(A) 6.032 km length and Phase 2B tender | reason: uncorroborated (single source)]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index had little or no coverage dated 2026-11-10 to 2026-11-12; WebFetch blocked for deshgujarat.com, socialnews.xyz, english.loktej.com, devdiscourse.com by the session network policy, so datelines were taken from URL paths and search metadata)
+email_delivery: sent
