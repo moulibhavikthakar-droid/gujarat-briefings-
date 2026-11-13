@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-13
+window: 2026-11-11 → 2026-11-13
+queries: ["Gujarat news 2026-11-13", "Gujarat government announcement November 12 2026", "Ahmedabad news November 2026", "GIFT City Surat diamond Dholera news November 2026", "Gujarat 12 November 2026", "Gujarat IMD Ahmedabad weather November 2026", "deshgujarat.com/2026/11/12", "Gujarat Bhupendra Patel November 11 2026", "Swachh Survekshan 2025-26 results Surat Ahmedabad Vadodara", "Gujarat MSP procurement paddy November 16 2026 kharif registration", "Mumbai Ahmedabad bullet train progress November 2026 Gujarat"]
+items_considered: 12
+items_published: 2
+items_struck: [CM Patel Gujarati New Year temple visits / drug-free Gujarat call | reason: out_of_window (IANS 2026-11-10); Kharif MSP procurement from Nov 16 | reason: out_of_window (DeshGujarat 2026-09-29); Western Railway platform-ticket suspension at Surat/Udhna Nov 1–15 | reason: no_dateline; Kankaria boating resumes Nov 3 / Diwali parole for 143 prisoners | reason: out_of_window (2026-10-29); IMD dry-weather forecast | reason: out_of_window (2026-11-02); BSF detains 4 Pakistani fishermen off Kutch | reason: no_dateline; Chhatral GIDC boiler blast, 4 dead | reason: no_dateline; Bhavnagar SUV-trailer crash, 7 dead | reason: no_dateline; Vibrant Gujarat 2027 delegations to 22 countries | reason: out_of_window (2026-10-17); Gujarat UCC gazette notification | reason: out_of_window (2026-10-01)]
+sections_empty: [Business & Economy, Infrastructure & Development]
+corpus_staleness_warning: true (search index returned almost no 11–13 Nov 2026 items; direct fetches of deshgujarat.com, indiatvnews.com, theprint.in, english.loktej.com blocked by session network policy — article datelines for Swachh Survekshan items taken from search-retrieved article text, not direct page fetch)
+email_delivery: sent
