@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-14
+window: 2026-11-12 → 2026-11-14
+queries: ["Gujarat news 2026-11-14", "Gujarat government announcement November 13 2026", "Ahmedabad news November 13 2026", "GIFT City Surat diamond Dholera news November 2026", "Gujarat Bhupendra Patel November 12 2026", "newkerala Gujarat Nov 2026 Gandhinagar Surat Vadodara Rajkot", "\"Nov 13\" 2026 Gujarat IANS OR PTI Ahmedabad", "IndiGo cancels Nashik Bhopal flights Ahmedabad airport stranded passengers protest", "Western Railway unreserved Ahmedabad Rajgir special train Chhath Puja 2026", "Gujarat news November 12 2026 Surat Vadodara Rajkot", "GIFT City IFSCA November 2026", "Rajkot Gondal Chowkdi overbridge crack November 2026", "Naliya coldest Gujarat minimum temperature November 14 2026", "IFSCA approves Global Commodity Trading Platform GIFT City"]
+items_considered: 14
+items_published: 4
+items_struck: [CM Bhupendra Patel Vikram Samvat 2083 New Year events, Gandhinagar | reason: out_of_window (2026-11-10); Rajkot & Vadodara airports designated immigration posts | reason: out_of_window (notified 2026-11-09, reported 2026-11-10); Amit Shah 30 projects Rs 1,024 crore Gandhinagar | reason: out_of_window (2026-11-09); Gujarat 3% DA hike | reason: out_of_window (2026-11-04); Rupsinh Thakor elected Gandhinagar mayor | reason: out_of_window (2026-11-03); Vadodara CNG/PNG price hike | reason: out_of_window (2026-11-02); Surat Free Fire stabbing of two minors | reason: out_of_window (2026-11-02); IFSCA model portfolios consultation paper | reason: out_of_window (~2026-11-09); Saurashtra University Rs 7.71 crore digital library still closed | reason: uncorroborated (single source, page unfetchable, dateline unverified); Naliya coldest at 17°C | reason: uncorroborated (single live-blog figure, no IMD bulletin retrieved); Vadodara Gajrawadi gas cylinder blast | reason: uncorroborated (single live-blog line, no details/second source); Gondal Chowkdi bridge Rs 90 crore cost figure | reason: uncorroborated (number dropped, claim kept)]
+sections_empty: [Politics & Governance]
+corpus_staleness_warning: false
+email_delivery: sent
+notes: WebFetch blocked for deshgujarat.com, english.gujaratsamachar.com, theblunttimes.in, pratahkal.com, thetraveler.org, nomadlawyer.org (not in session network allowlist); datelines taken from search-result document metadata.
