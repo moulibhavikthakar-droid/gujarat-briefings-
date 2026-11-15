@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-15
+window: 2026-11-13 → 2026-11-15
+queries: ["Gujarat news 2026-11-15", "Gujarat government announcement November 14 2026", "Ahmedabad news November 15 2026", "GIFT City Surat diamond Dholera news November 2026", "Gujarat news \"November 14, 2026\" OR \"14 November 2026\" OR \"November 15, 2026\"", "Labh Pancham 2026 Gujarat market yards reopen November 14", "Junagadh Vanthali highway accident couple killed November 2026", "PM Modi Gandhinagar visit November 13 14 2026", "Bhupendra Patel Gujarat CM decision November 13 2026", "Narmada district tribal forest land rights dispute November 2026", "Ambaji temple devotees Labh Pancham PM visit cancelled Banaskantha collector", "PM Modi Ambaji visit cancelled Labh Pancham Shankar Chaudhary devotees", "Gujarat weather IMD Ahmedabad November 14 2026 temperature", "PM leaves Gujarat after meeting CM Dy CM takes stock of major ongoing works Lok Bhavan"]
+items_considered: 15
+items_published: 6
+items_struck: [CM Bhupendra Patel to tour tribal areas incl. Garbada 18–20 Nov | reason: no_dateline; CM higher-education workforce seminar in Ahmedabad | reason: out_of_window (~10 days old); Four districts (Devbhoomi Dwarka, Porbandar, Kutch, Jamnagar) declared drought-affected | reason: out_of_window (2026-10-26); Narmada/Sagbara tribal forest land rights row | reason: no_dateline (dated coverage is from Aug 2026); CBI raids at 33 locations in Mahadev betting case | reason: out_of_scope (no Gujarat-specific location confirmed); PM reviewed major ongoing works before leaving Gujarat on 14 Nov | reason: no_dateline (article couldn't be fetched, no project details verified); ~5 lakh devotees expected at Ambaji on Labh Pancham | reason: uncorroborated; Ahmedabad IMD temperature/weather | reason: no_dateline (latest bulletin found is 2026-10-06); Surat Dream City / Diamond Bourse / GIFT City / Dholera items | reason: out_of_window]
+sections_empty: [Infrastructure & Development]
+corpus_staleness_warning: true (broad date queries returned mostly stale/undated index pages; WebFetch blocked by network policy for deshgujarat.com, tv9gujarati.com, sandesh.com, english.gujaratsamachar.com, theprint.in, so verification relied on search-result text and datelines in article URLs/titles)
+email_delivery: sent
