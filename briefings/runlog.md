@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-16
+window: 2026-11-14 → 2026-11-16
+queries: ["Gujarat news November 16 2026", "Gujarat government announcement November 15 2026", "Ahmedabad Surat Vadodara Rajkot news November 2026", "GIFT City Dholera Surat diamond November 2026", "Gujarat Bhupendra Patel November 14/15/16 2026", "Janjatiya Gaurav Diwas 2026 Chhota Udepur Bhupendra Patel projects", "Gujarat weather IMD Ahmedabad cold November 15 2026", "Ahmedabad news 15 November 2026", "\"Vadi Sahay Yojana\" Chhota Udepur 2,283 crore", "Gujarat IANS news November 14 2026 Surat Rajkot Vadodara Gandhinagar", "Mumbai Ahmedabad bullet train latest update November 2026"]
+items_considered: 8
+items_published: 1 (+ Mega-Project Deep Dive: MAHSR, dated Jul–Aug 2026 reporting)
+items_struck: [Rs 2,283.97 crore project figure for Chhota Udepur event | reason: uncorroborated (single IANS wire syndicated, no official source retrieved); Swachh Survekshan 2025-26 honours for Surat/Vadodara/Ahmedabad-Sanand | reason: out_of_window (Nov 11–12); Gujarat cabinet 3% DA hike for state employees | reason: out_of_window (Nov 4); Gujarat govt assistance to 25 industrial units | reason: out_of_window (Oct 12); CM New Year greetings exchange | reason: out_of_window (Nov 10); Ahmedabad Google News items (IndiGo cancellations, Range Rover hit-and-run, parking fee hike, Kavach 4.0) | reason: no_dateline; Kiran Gems exit from Surat Diamond Bourse | reason: no_dateline; Gujarat cold-weather IMD figures | reason: out_of_window (no Nov 2026 bulletin retrieved)]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index returned almost no items dated within window; direct fetches of deshgujarat.com, punjabkesari.com, socialnews.xyz, thehawk.in blocked by session network policy, so article bodies could not be opened)
+email_delivery: sent
