@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-17
+window: 2026-11-15 → 2026-11-17
+queries: ["Gujarat news 2026-11-17", "Gujarat government announcement November 17 2026", "Ahmedabad news November 16 2026", "GIFT City Surat diamond Dholera news November 2026", "deshgujarat 2026/11/16", "Gujarat MSP paddy procurement November 16 Kharif Marketing Season 2026-27", "Jalaram Bapa 227th birth anniversary Virpur 2026", "Ahmedabad Sarkhej MD drug factory bungalow basement November 2026"]
+items_considered: 7
+items_published: 4
+items_struck: [Gujarat begins MSP procurement of paddy/maize/bajra/jowar/ragi from Nov 16 | reason: out_of_window (only source is DeshGujarat article dated 2026-09-29; no in-window report that procurement actually started); Namo Bharat train door failed to open in Surendranagar | reason: uncorroborated (single live-blog line, no article-level detail); Surat Rander gas cylinder blast and fire | reason: uncorroborated (single live-blog line, no article-level detail); 227 kg bundi prasad figure at Virpur | reason: uncorroborated (figure dropped, event kept)]
+sections_empty: [Business & Economy, Infrastructure & Development]
+corpus_staleness_warning: true (generic date queries returned mostly 2025 to mid-2026 material; WebFetch blocked for deshgujarat.com, sandesh.com, tv9gujarati.com, english.gujaratsamachar.com, thenewsmill.com, connectgujarat.com, so datelines were checked from search-result URLs and titles only)
+email_delivery: sent
