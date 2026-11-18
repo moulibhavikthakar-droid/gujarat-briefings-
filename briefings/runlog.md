@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-18
+window: 2026-11-16 → 2026-11-18
+queries: ["Gujarat news 2026-11-18", "Gujarat government announcement November 17 2026", "Ahmedabad news November 18 2026", "GIFT City Surat diamond Dholera news November 2026", "Gujarat Bhupendra Patel Gandhinagar 17 November 2026", "Surat Vadodara Rajkot news \"November 17, 2026\" OR \"November 16, 2026\"", "Gujarat SpaceTech Hackathon 2026 Arjun Modhwadia prize", "Bhupendra Patel Garbada Dahod tribal village overnight stay November 2026", "Gujarat IANS \"Nov 17\" 2026 Gandhinagar", "Gujarat CM Dahod tribal villages three days visit SpaceTech hackathon", "Gujarat farmers licensed dealers seeds fertilisers winter sowing advisory November 2026", "Gujarat Cancer Research Institute HIV-positive women HPV screening FICCI award 2026"]
+items_considered: 9
+items_published: 4
+items_struck: [SpaceTech Hackathon Rs 56 lakh prize pool figure | reason: uncorroborated (single non-official source; item published without the figure); GCRI: nearly 1 in 5 HIV-positive women screened HPV-positive, FICCI Healthcare Excellence Award 2026 | reason: uncorroborated (single source; core claim is the figure); Minister Jitu Vaghani moves four cattle to Gandhinagar residence, kitchen garden | reason: uncorroborated (minister name/portfolio from search summary only, article not fetchable); Named identity of BJP MLA in Patidar-agitation statement | reason: uncorroborated (name only in search summary; item published unnamed); DeshGujarat new cabinet / Diwali parole items | reason: out_of_window (Oct 29, 2026); Nov 1 school mental-health mandate | reason: out_of_window; CM Vikram Samvat 2083 greetings | reason: out_of_window (Nov 10, 2026); Chhatral GIDC boiler blast / Gandhinagar building collapse | reason: no_dateline]
+sections_empty: [Infrastructure & Development]
+corpus_staleness_warning: true (broad date queries returned almost nothing in-window; most results months old; article fetches blocked by network policy for punjabkesari.com, deshgujarat.com, aninews.in, socialnews.xyz — datelines verified from search-result datelines/URL timestamps only)
+email_delivery: sent
