@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-19
+window: 2026-11-17 → 2026-11-19
+queries: ["Gujarat news 2026-11-19", "Gujarat government announcement November 18 2026", "Ahmedabad news November 18 2026", "GIFT City OR Dholera OR Surat diamond news November 2026", "Gujarat Bhupendra Patel 17 November 2026", "Surat OR Vadodara OR Rajkot news November 18 2026", "Garbada Dahod Chief Minister tribal visit November 2026", "Gujarat PIB OR IMD Ahmedabad OR \"Ahmedabad metro\" November 17 2026", "Ahmedabad Municipal Corporation food safety drive 2,832 kg 148 notices November 2026", "Gujarat 48,190 tribal farmers Rabi seeds fertiliser 14 districts"]
+items_considered: 12
+items_published: 4
+items_struck: [AMC food drive figures (2,832 kg destroyed, 148 notices) | reason: uncorroborated (single source; corroboration search found none) — claim published without figures; Yusuf Pathan Vadodara plot figures (~₹20 cr plot for ~₹5 cr) | reason: uncorroborated — claim published without figures; Rajkot alleged liquor-party videos viral (TV9 live blog) | reason: uncorroborated / no verifiable article content; Ahmedabad–Madhubani special train on 17 Nov | reason: out_of_window (article dated 2026-11-16); CM Bhupendra Patel 72-hour Garbada (Dahod) tribal-area stay 18–20 Nov | reason: out_of_window (announcement dated 2026-11-14; no in-window coverage of the visit retrieved); Sandesh roundup Koli community/CM statement | reason: no_dateline-level detail (too vague to state); Surat cut & polished diamond exports +11.32% in October | reason: out_of_window (2026-10-21); Surat Dream City plot allotment proposals due 17 Nov | reason: no_dateline (year unconfirmed); Gujarat LPG supply +20% | reason: no_dateline; Gujarat school mental-health measures | reason: out_of_window (2026-11-01); Chhatral GIDC boiler blast, UCC bill assent, Okha/Thara bypolls, Diwali parole | reason: no_dateline]
+sections_empty: [Business & Economy, Infrastructure & Development]
+corpus_staleness_warning: true (search index thin for window; direct fetches to deshgujarat.com, tv9gujarati.com, thenewsmill.com, webindia123.com, asianetnews.com, socialnews.xyz blocked by session network policy — datelines taken from article URL date paths/search metadata, not from fetched pages)
+email_delivery: sent
