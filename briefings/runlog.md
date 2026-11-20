@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-20
+window: 2026-11-18 → 2026-11-20
+queries: ["Gujarat news 2026-11-20", "Gujarat government announcement November 19 2026", "Ahmedabad news November 20 2026", "GIFT City OR Surat diamond OR Dholera news November 2026", "Gujarat Bhupendra Patel 19 November 2026", "Surat Vadodara Rajkot news 2026-11-19", "Bhupendra Patel Garbada Dahod 72 hours tribal visit", "Gujarat IMD weather cold November 19 2026 OR \"November 20, 2026\" Gujarat", "Gujarat news aninews November 19 2026 Ahmedabad Surat Gandhinagar", "Gujarat business investment MoU GIFT City IFSCA November 18 2026", "Ahmedabad Metro Phase 2 GIFT City Gandhinagar status 2026"]
+items_considered: 10
+items_published: 2 (1 headline + governance detail) + 1 deep dive
+items_struck: [Ahmedabad Urban Health Centre in Gota and six-lane SG Highway overbridge inaugurated by Amit Shah | reason: out_of_window (2026-11-09); IFSCA proposes model portfolios for research entities in GIFT City | reason: out_of_window (Business Standard ~2026-11-09); Razorpay gets final IFSCA PSP licence | reason: out_of_window (early Nov 2026); GIFT City bank assets ~$193bn | reason: no_dateline / uncorroborated; Draft three-phase plan for GIFT City expansion | reason: no_dateline (only "early November 2026"); Surat diamond exports up 11.32% in October | reason: out_of_window (Oct 2026); Gujarat cold wave, eight cities below 15°C | reason: no_dateline (year not shown); Chhatral GIDC boiler blast and Gandhinagar building collapse | reason: no_dateline (page ~200 days old); Ahmedabad Metro airport extension approved by Union Cabinet on 2026-06-10 | reason: uncorroborated (single non-official source, so left out of the deep dive); DeshGujarat ACB sarpanch/talati bribe arrest | reason: out_of_window (early Nov)]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index returned almost nothing dated 2026-11-18..20; WebFetch blocked for every news host — deshgujarat.com, aninews.in, loktej.com, punjabkesari.com, inshorts.com, socialnews.xyz — so datelines were read from ANI URL timestamps and search metadata, not from article pages)
+email_delivery: sent
