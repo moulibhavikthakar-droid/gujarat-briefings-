@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-21
+window: 2026-11-19 → 2026-11-21
+queries: ["Gujarat news 2026-11-21", "Gujarat government announcement November 20 2026", "GIFT City news November 2026", "Ahmedabad news November 21 2026", "Surat diamond industry November 2026", "DeshGujarat November 20 2026", "Gujarat caste words symbols private vehicles ban Motor Vehicles Third Amendment Rules 2026", "Bhupendra Patel Garbada Dahod tribal villages visit November 2026", "Gujarat news November 20 2026 Surat Rajkot Vadodara", "Ahmedabad metro OR Dholera OR bullet train Gujarat November 19 2026", "Gujarat \"November 21, 2026\"", "Gujarat CM Bhupendra Patel Dahod library reading room November 20 2026", "Gujarat business investment MoU November 20 2026", "labour employment ministers chintan shivir Mahatma Mandir Gandhinagar November 2026", "Assam partner state Vibrant Gujarat Global Summit 2027"]
+items_considered: 12
+items_published: 4
+items_struck: [Mumbai–Ahmedabad bullet train cost nearly doubles to ~Rs 2.03 lakh crore (RTI) | reason: out_of_window (Deccan Herald, 2026-11-18); Surat–Bilimora HSR OHE energisation scheduled Nov 20 | reason: out_of_window (Mumbai Tribune advisory dated 2026-11-18; no post-event report); Surat diamond firms pausing operations amid slump | reason: out_of_window (2026-11-16); SAIL, Zydus apply for GIFT City treasury centres | reason: out_of_window (2026-11-11); Go Digit gets IFSCA registration for GIFT City branch | reason: out_of_window (event 2026-11-18, only secondary current-affairs roundup); CM tour details (Birsa Munda tribute, Sarabali/Gangardi visits, overnight stays) | reason: out_of_window / no_dateline (SocialNews 2026-11-18; IANS syndications undated); CM listens to tribal bhajans at Bhamatalai Faliya | reason: no_dateline (The News Mill, month-only URL); CM visit to Dahod library on Nov 20 | reason: no_dateline (only a 2026-11-17 preview, no post-event report); Winter chill to intensify, temperatures to fall 2–3°C | reason: no_dateline / uncorroborated (Connect Gujarat headline only); EAS cybercrime conference at NFSU / Lothal maritime festival announcement | reason: no_dateline (secondary roundup, no primary report verified)]
+sections_empty: [Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: false
+email_delivery: sent
+note: WebFetch blocked for aninews.in, theprint.in, deshgujarat.com (not in session network allowlist); datelines verified from search-result metadata and article URL timestamps.

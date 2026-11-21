@@ -1,21 +1,28 @@
-🗓️ Gujarat Daily Briefing | 2026-09-27
+🗓️ Gujarat Daily Briefing | 2026-11-21
 
 **Top Headlines:**
-• Congress and BJP finalized candidate lists for the Gandhinagar Municipal Corporation civic polls as nominations closed; Congress's second list added 16 candidates, taking its total to 35 (Gandhinagar) (TV9 Gujarati / TheHawk.in, Sept 26, 2026)
-• A three-day nationwide bank strike (Sept 28–30) called by the United Forum of Bank Unions will hit Gujarat hard: over 1 lakh employees across 16 banks and roughly 5,400 branches statewide, with about 30,000 employees in Ahmedabad alone (Ahmedabad and statewide) (Indian Masterminds / Gujarat Samachar, Sept 25–27, 2026)
-• The Ambaji Bhadarvi Poonam Mahamela drew record crowds as it entered its final days, with 3.72 lakh devotees recorded on Day 6 alone (Ambaji, Banaskantha district) (Sandesh, Sept 25–26, 2026)
-• GIFT City marked World Tourism Day with Deputy CM Harsh Sanghavi discussing plans to grow Gujarat's tourism sector (Gandhinagar) (Gujarat First, Sept 27, 2026)
+• Gujarat has banned caste-identifying words, symbols, signs and text on private vehicles, from two-wheelers to buses and trucks, through the Gujarat Motor Vehicles (Third Amendment) Rules, 2026, notified by the Ports and Transport Department on November 17; exceptions require a government order. [Statewide] (ANI / The Statesman / Deccan Herald, 2026-11-20)
+• On a tribal outreach tour of Garbada taluka in Dahod district, Chief Minister Bhupendra Patel told ANI that government welfare schemes had "reached the very last edge of village". [Garbada, Dahod] (ANI, 2026-11-19)
+• Assam will take part as a "Partner State" in the Vibrant Gujarat Global Summit 2027, scheduled for January 10–12 at Mahatma Mandir; Gujarat minister Naresh Patel invited Assam CM Himanta Biswa Sarma during a summit roadshow in Guwahati. [Gandhinagar] (ANI / The Hans India, 2026-11-20)
+• The Union Ministry of Labour and Employment is holding a two-day Chintan Shivir of state and UT Labour, Employment and Industry Ministers at Mahatma Mandir on November 21–22, chaired by Union Minister Mansukh Mandaviya, to review implementation of the Labour Codes one year after they took effect. [Gandhinagar] (PIB; Gujarat First, 2026-11-21)
 
 **Key Sections:**
-🏛️ Politics & Governance — Nomination filing for the 44-seat, 11-ward Gandhinagar Municipal Corporation closed on September 26; BJP and Congress completed their candidate slates, with Congress's second list of 16 names bringing its total to 35 (TV9 Gujarati; TheHawk.in, Sept 26, 2026).
 
-💼 Business & Economy — The United Forum of Bank Unions' three-day strike (Sept 28–30) over a five-day banking week demand is expected to shut roughly 5,400 branches and affect over 1 lakh public-sector bank employees across 16 banks in Gujarat, with about 30,000 in Ahmedabad; private lenders (ICICI, HDFC, Axis) and cooperative banks will operate normally, and SLBC-Gujarat has urged customers to complete transactions in advance (Indian Masterminds; Gujarat Samachar; Upstox, Sept 25–27, 2026). Separately, GIFT City hosted a World Tourism Day event on September 27 with Deputy CM Harsh Sanghavi (Gujarat First, Sept 27, 2026).
+🏛️ Politics & Governance —
+• Caste-signage ban on private vehicles: the Gujarat Motor Vehicles (Third Amendment) Rules, 2026 were notified on November 17 after a draft published on June 11 drew no objections, according to the state. Reports say this gives traffic police and transport officials a specific legal basis to act against vehicle owners. (ANI / The Statesman / Deccan Herald, 2026-11-20)
+• CM Bhupendra Patel's tribal outreach in Garbada, Dahod: he said welfare schemes had reached the remotest villages of the taluka. (ANI, 2026-11-19)
 
-🏗️ Infrastructure & Development — No verified updates in the last 48 hours.
+💼 Business & Economy —
+• Assam confirmed as Partner State for Vibrant Gujarat Global Summit 2027 (January 10–12, Mahatma Mandir, Gandhinagar); it will present its industries and look for partnerships with Gujarat. (ANI / The Hans India, 2026-11-20)
+• National Labour Codes Chintan Shivir at Mahatma Mandir, November 21–22. Sessions cover Labour Code implementation, EPFO and ESIC reforms, and social security for unorganised workers. V.V. Giri National Labour Institute and Gujarat National Law University are the knowledge partners. (PIB; Gujarat First, 2026-11-21)
 
-🌍 Local News & Culture — The Ambaji Bhadarvi Poonam Mahamela in Banaskantha district drew 3.72 lakh devotees on its sixth day (Sept 25) as the seven-day fair entered its final stretch, with cumulative attendance running into the tens of lakhs (Sandesh; Organiser; GSTV, Sept 25–26, 2026). IMD's Ahmedabad centre forecast light-to-moderate rain and thundershowers at isolated places in South Gujarat districts, including Surat, Vadodara, Tapi, Dang and Narmada, for September 27 (IMD Ahmedabad state forecast, issued Sept 26, 2026).
+🏗️ Infrastructure & Development —
+No verified updates in the last 48 hours.
+
+🌍 Local News & Culture —
+No verified updates in the last 48 hours.
 
 **Brief Summary:**
-Gujarat's news cycle this window was shaped by two converging civic events — finalized candidate lists for the Gandhinagar Municipal Corporation polls and a looming three-day bank strike — alongside the closing days of the Ambaji Bhadarvi Poonam Mahamela, which drew lakhs of pilgrims to Banaskantha district. GIFT City also marked World Tourism Day, underscoring Gujarat's push to expand its tourism sector.
+Governance news led the window: Gujarat's new ban on caste signage on private vehicles and the Chief Minister's tribal outreach in Dahod's Garbada taluka. Gandhinagar's Mahatma Mandir is the venue for this weekend's national Labour Codes review and for the January 2027 Vibrant Gujarat summit, where Assam will be a Partner State.
 
-**Sources consulted:** TV9 Gujarati, TheHawk.in, Indian Masterminds, Gujarat Samachar, Upstox, Zeebiz, Sandesh, Organiser, GSTV, Gujarat First, IMD Ahmedabad (mausam.imd.gov.in)
+**Sources consulted:** ANI, The Statesman, Deccan Herald, The Hans India, PIB, Gujarat First
