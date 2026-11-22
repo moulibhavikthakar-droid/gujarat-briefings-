@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-22
+window: 2026-11-20 → 2026-11-22
+queries: ["Gujarat news November 22 2026", "Gujarat government announcement November 21 2026", "Ahmedabad news 21 November 2026", "GIFT City OR Surat diamond OR Dholera November 2026", "labour employment ministers chintan shibir Mahatma Mandir Gandhinagar November 2026", "AMC sensor network 14 bridges Ahmedabad Rs 50 crore", "Gujarat weather IMD Ahmedabad forecast November 21 2026"]
+items_considered: 6
+items_published: 1
+items_struck: [AMC plans ₹50-crore sensor network for 14 Ahmedabad bridges | reason: no_dateline / uncorroborated (only a Gujarat Samachar listing snippet; follow-up search found no article; amount single-source); Gujarat HC seeks govt reply on SEBC candidates in Vidyasahayak recruitment | reason: no_dateline (listing snippet only, article not retrieved); Mandaviya "seven crore workers" remark | reason: uncorroborated (single non-official source); ACB sarpanch/talati bribe arrest and HSRP enforcement (DeshGujarat) | reason: out_of_window (~2026-11-02); Chhatral GIDC boiler blast / BSF Kutch fishermen (India TV) | reason: no_dateline / out_of_window (page ~208 days old); IMD Gujarat dry weather / Ahmedabad min temp below 20°C | reason: out_of_window (2026-11-02, 2026-11-07)]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index thin for 20–22 Nov 2026; WebFetch blocked by network policy for deshgujarat.com, english.gujaratsamachar.com, gujaratfirst.com, socialnews.xyz, newsable.asianetnews.com — article pages could not be opened, datelines taken from URL paths/search metadata)
+email_delivery: sent
