@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-23
+window: 2026-11-21 → 2026-11-23
+queries: ["Gujarat news 2026-11-23", "Gujarat government announcement November 22 2026", "Ahmedabad news November 2026", "GIFT City Surat diamond Dholera news November 2026", "Gujarat \"November 22, 2026\"", "Bhupendra Patel Gandhinagar 21 November 2026", "labour ministers Chintan Shibir Mahatma Mandir Gandhinagar Labour Codes Mandaviya", "Surat OR Rajkot OR Vadodara news November 22 2026", "Gujarat news 21 November 2026 Ahmedabad Surat", "GIFT City IFSCA announcement November 2026", "Razorpay final PSP licence IFSCA GIFT City", "Jasdan marketing yard groundnut queue farmers November 2026"]
+items_considered: 13
+items_published: 4
+items_struck: [Gujarat First preview of 22 Nov events (Constitution Glory Day press conference, Gopalak business summit, Mahatma Mandir cycle rally) | reason: no_dateline (scheduled preview only, occurrence not verified); "3 km" length of Jasdan groundnut queue | reason: uncorroborated (single non-official source; number dropped, claim kept qualitatively); Razorpay final IFSCA PSP licence for GIFT City | reason: out_of_window (2026-11-03); GIFT City delegation outreach at Singapore FinTech Festival | reason: out_of_scope (held abroad) / out_of_window (17-20 Nov); IFSCA ILS working-group report | reason: out_of_window (2026-11-16); IFSCA model-portfolio and solicitation consultations | reason: out_of_window (2026-11-09); Amit Shah Gandhinagar projects / drug-free Gujarat pledge | reason: out_of_window (2026-11-09); PM Modi reviews Dholera, Sabarmati Ashram, CWG 2030 projects | reason: out_of_window (2026-11-14/18); Surat SMC employees ACB bribe arrest | reason: out_of_window (early Nov); Chimanbhai Patel Bridge closure for bullet train work | reason: out_of_window (3-4 Nov); Rajkot gold rate (Policybazaar) | reason: out_of_scope (aggregator price data, not news)]
+sections_empty: [Infrastructure & Development]
+corpus_staleness_warning: true (most search results stale/undated; deshgujarat.com and business-standard.com unreachable from session network, so fetch-based dateline checks were not possible and datelines were verified from URL/date stamps in search results)
+email_delivery: sent
