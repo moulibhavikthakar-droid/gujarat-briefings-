@@ -7,3 +7,14 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-24
+window: 2026-11-22 → 2026-11-24
+queries: ["Gujarat news 2026-11-24", "Gujarat government announcement November 23 2026", "Ahmedabad news November 24 2026", "GIFT City Surat diamond Dholera news November 2026", "Gujarat \"November 23, 2026\" OR \"23 November 2026\" OR \"November 22, 2026\"", "Bhupendra Patel Vadtal Kartiki fair Anand Kheda November 2026", "Girnar parikrama 2026 Junagadh devotees November", "Surat Vadodara Rajkot news 23 November 2026", "Gujarat Ahmedabad Gandhinagar news Nov 23 2026 timesofindia OR indianexpress", "Ahmedabad Metro Phase 2 GIFT City Mahatma Mandir 2026 status"]
+items_considered: 7
+items_published: 0
+items_struck: [CM Bhupendra Patel scheduled to visit Anand and Kheda (Dada Bhagwan festival, Vadtal Kartiki fair) per Gujarat First roundup dated 2026-11-23 | reason: no_dateline (article could not be fetched, gujaratfirst.com blocked by network policy; only a search-tool summary, and it was a schedule, not a reported event); Gujarat schools closed for Diwali vacation until Nov 25 (Indian Opinion) | reason: uncorroborated (single non-official source, page not fetchable); Girnar Lili Parikrama 20–24 Nov, 2,200+ security personnel (Gujarat Samachar / Outlook Traveller / blogs) | reason: no_dateline (no verified article date; dates disputed across sources); Tribal scholarship release, 58.38 lakh students (Loktej) | reason: out_of_window (2026-11-19); Chhatral GIDC boiler blast / Bhavnagar crash / Gandhinagar collapse (India TV list) | reason: no_dateline (stale page); Surat ITAT ruling / expressway crash (werindia) | reason: out_of_window (2026-11-07); Ahmedabad Metro Phase 2 completed Jan 2026, Koteshwar–Airport extension approved 10 Jun 2026 | reason: no_dateline (reporting date not verifiable; deep-dive left without status)]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true
+notes: WebFetch blocked by network policy for deshgujarat.com, gujaratfirst.com, indianopinion.org, english.gujaratsamachar.com; search index returned almost no in-window Gujarat articles.
+email_delivery: sent
