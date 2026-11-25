@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-25
+window: 2026-11-23 → 2026-11-25
+queries: ["Gujarat news 2026-11-25", "Gujarat government announcement November 24 2026", "GIFT City news November 2026", "Ahmedabad Surat news November 24 2026", "Gujarat Bhupendra Patel November 23 2026", "Surat diamond OR Dholera OR Ahmedabad metro news November 2026", "Gujarat ANI \"Nov 24\" 2026 Gandhinagar OR Ahmedabad OR Vadodara OR Rajkot", "Gujarat news 23 November 2026 Gandhinagar", "3rd All India Police Badminton Cluster 2026-27 Ahmedabad closing ceremony"]
+items_considered: 9
+items_published: 0 (plus 1 Mega-Project Deep Dive status note)
+items_struck: [CM Bhupendra Patel attends closing of 3rd All India Police Badminton Cluster, Ahmedabad | reason: no_dateline (Tribune article not fetchable — tribuneindia.com blocked by network policy; "Tuesday" date only from search summary); Gujarat First "what will happen on 24 Nov" preview (BJP/Congress pressers, Vadodara Guru Nanak Jayanti, Rajkot open pit) | reason: no_dateline (schedule preview, not reporting of events); HYROX Gandhinagar 26–28 Nov | reason: out_of_window (future event, undated source); SAIL, Zydus apply for GIFT City treasury centres | reason: out_of_window (2026-11-11); Razorpay GIFT City approval | reason: out_of_window (2026-11-02); Gujarat 3% DA hike | reason: out_of_window (2026-11-04); CM 3-day Dahod visit | reason: no_dateline (inconsistent Facebook metadata); Vibrant Gujarat 2027 Jaipur roadshow | reason: no_dateline; Surat Metro Dream City–Althan opening by November end | reason: no_dateline (forecast from 2026-08-30; no confirmation of opening)]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (search index returned almost nothing dated after 2026-11-20; deshgujarat.com, tribuneindia.com, aninews.in unreachable — not in session network allowlist)
+email_delivery: sent
