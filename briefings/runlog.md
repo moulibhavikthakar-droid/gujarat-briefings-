@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-26
+window: 2026-11-24 → 2026-11-26
+queries: ["Gujarat news 2026-11-26", "Gujarat government announcement November 25 2026", "Ahmedabad news November 25 2026", "GIFT City OR Surat diamond OR Dholera news November 2026", "Vibrant Gujarat Global Summit 2027 Bengaluru roadshow November 2026", "Gujarat police Lokrakshak PSI 12993 recruitment OJAS November 26 2026", "Shramik Annapurna Yojana 300 new centres Gujarat November 2026", "Gujarat cold weather IMD Ahmedabad temperature November 25 2026"]
+items_considered: 9
+items_published: 3
+items_struck: [VGGS 2027 roadshow in Bengaluru pitching semiconductors to Karnataka industry | reason: out_of_scope (event physically held in Karnataka); Gujarat Police Recruitment Board 12,993 vacancies (12,752 Lokrakshak, 241 PSI) | reason: out_of_window (released Nov 23) + uncorroborated (second search found no 12,993 figure); Shramik Annapurna figures (300 new centres, ~700 total, ~1 lakh meals/day) | reason: uncorroborated (single non-official source; qualitative expansion plan kept, figures dropped); Rs 50 lakh extortion amount in Ahmedabad Crime Branch arrest | reason: uncorroborated (figure dropped, arrest kept); Botad marketing yard controversy | reason: no_dateline/insufficient detail beyond roundup headline; fatal road accident near Jasdan | reason: insufficient detail (no casualty count or details verifiable); India TV Banaskantha PM rally / Chhatral GIDC boiler blast / Gandhinagar building collapse | reason: out_of_window (page ~212 days stale); DeshGujarat ACB sarpanch-talati arrest | reason: out_of_window (Nov 2); GIFT City / Surat Diamond Bourse / Dream City / Dholera items | reason: out_of_window (2025 or undated); Gujarat cold/temperature reports | reason: out_of_window (Nov 2025 / Jan 2026)]
+sections_empty: [Business & Economy, Infrastructure & Development]
+corpus_staleness_warning: true (most results from Oct 2026 or earlier; WebFetch blocked by network policy for nationpress.com, vividhbharathi.com, bhaskarlive.in, english.gujaratsamachar.com, deshgujarat.com, sandesh.com — datelines taken from search-tool result text, not article pages)
+email_delivery: sent
