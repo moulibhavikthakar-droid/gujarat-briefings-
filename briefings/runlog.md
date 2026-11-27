@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-27
+window: 2026-11-25 → 2026-11-27
+queries: ["Gujarat news 2026-11-27", "Gujarat government announcement November 26 2026", "Ahmedabad news November 27 2026", "GIFT City OR Surat diamond OR Dholera news November 2026", "Gujarat Bhupendra Patel November 26 2026", "deshgujarat.com 2026/11/26 OR 2026/11/27", "State SWAGAT Gujarat CM grievances November 2026 encroachment FIR", "Gujarat Constitution Day 2026 Gandhinagar Ambedkar tribute Sardar Patel exhibition Gujarat Vidyapith", "Gujarat CM State SWAGAT Lunidhar Amreli Kuvadva subsidy 4,122 representations", "Ahmedabad Metro Phase 2 GIFT City Gandhinagar 2026 latest status"]
+items_considered: 8
+items_published: 1 (+ Mega-Project Deep Dive: Ahmedabad Metro Phase II, background dated 2026-02-24)
+items_struck: [November State SWAGAT: CM orders time-bound action on 4,122+ grievances (Lunidhar/Amreli encroachment FIR, Kuwadva subsidy) | reason: no_dateline (no article-level date verifiable; article fetches blocked by network policy; figure from single outlet); Constitution Day law-student seminar at Assembly + 251-item Sardar Patel exhibition at Gujarat Vidyapith | reason: no_dateline (hiindia.com fetch blocked; follow-up search found no corroboration); Gujarat First 27 Nov preview: cow honour convention and BJP workshop in Gandhinagar | reason: no_dateline (scheduled-events preview, content unverifiable, fetch blocked); TV9 Gujarati: Vadodara water shortage, Amreli land encroachment | reason: no_dateline (live-blog snippet only, fetch blocked); Indian Army aircraft lands on Amritsar–Jamnagar Economic Corridor, Patan district | reason: out_of_window (2026-11-24); Gujarat Samachar: rupee crosses 93/USD | reason: out_of_scope; Ahmedabad Metro Phase 2B cost (₹1,017/1,067/1,071 crore) and Phase 2A airport extension | reason: uncorroborated (conflicting figures, excluded from deep dive)]
+sections_empty: [Business & Economy, Infrastructure & Development, Local News & Culture]
+corpus_staleness_warning: true (broad date-specific queries returned mostly 2025/early-2026 pages; WebFetch blocked for nationpress.com, thehawk.in, hiindia.com, tv9gujarati.com by session network policy)
+email_delivery: sent
