@@ -7,3 +7,13 @@ items_struck: [Woman steals wallet at Navrangpura/Law Garden Starbucks, ₹27,00
 sections_empty: [Infrastructure & Development]
 corpus_staleness_warning: false
 email_delivery: sent
+
+run: 2026-11-28
+window: 2026-11-26 → 2026-11-28
+queries: ["Gujarat news 2026-11-28", "Gujarat government announcement November 27 2026", "Ahmedabad news November 27 2026", "GIFT City OR Dholera OR Surat diamond news November 2026", "Gujarat Lokrakshak PSI 12993 vacancies recruitment notification November 2026", "Vibrant Gujarat Global Summit 2027 Lucknow roadshow Raman Solanki", "Grameen Bharat Mahotsav Ahmedabad Sindhu Bhawan November 2026", "Surat OR Rajkot OR Vadodara news 27 November 2026", "Ahmedabad Metro Phase 2 Gandhinagar GIFT City corridor status November 2026"]
+items_considered: 7
+items_published: 0
+items_struck: [GPRB opens OJAS applications 26 Nov–16 Dec for 12,993 posts (12,752 Lokrakshak + 241 PSI) | reason: no_dateline (article pages unreachable — WebFetch blocked for gujaratsamachar/connectgujarat/thedailyjagran; notification date reported inconsistently as 23/24/26 Nov; totals vary 12,933/12,993/13,152); Vibrant Gujarat 2027 roadshow in Lucknow led by Raman Solanki | reason: out_of_scope (event held in Uttar Pradesh); Grameen Bharat Mahotsav at Sindhu Bhawan, Ahmedabad until 29 Nov | reason: no_dateline / uncorroborated (single unreachable source; second search contradicted it); Gujarat tops NITI Aayog Investment Friendliness Index 2026 | reason: no_dateline; Collectors/DDOs given enhanced land-allotment powers | reason: no_dateline; Rhythm 3.0 inauguration Vadodara with Dy CM Harsh Sanghavi (Gujarat First day-preview, 27 Nov) | reason: uncorroborated (single preview of a scheduled event, page not retrievable); Ahmedabad Metro Phase 2 GIFT City section operational Jan 2026 (deep-dive candidate) | reason: no_dateline (report date unverifiable)]
+sections_empty: [Top Headlines, Politics & Governance, Business & Economy, Infrastructure & Development, Local News & Culture, Mega-Project Deep Dive (content)]
+corpus_staleness_warning: true (general searches returned mostly pre-November 2026 pages; network policy blocked WebFetch to every news host tried — deshgujarat.com, english.gujaratsamachar.com, connectgujarat.com, thedailyjagran.com, english.hindusthansamachar.in, indianmasterminds.com, newzdaddy.com, en.wikipedia.org — so no article dateline could be verified)
+email_delivery: sent
